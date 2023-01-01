@@ -7,4 +7,4 @@
 | _**At least 7 of the JavaScript Projects should be completed from the given list of Projects from [CodeSandBox](https://codesandbox.io/s/js-assignments-fsjs-3g8p6n)**_ | _**[Link](https://github.com/anupam-k/Javascript-Codesandbox-Projects)**_ |
 | _**7 Projects from [Doc File](https://drive.google.com/file/d/1_1xoly9lYjNYDHWgMn_2zIxkAqfczqTN/view?usp=sharing)**_ | _**[Link](https://github.com/anupam-k/Javascript-Doc-File-Projects)**_ |
 
-## _All Assignments of FSJS:_ _[CLick Here](https://docs.google.com/document/d/1QM5cuXBVFtmj9llNL0bZNYYl4Tob4vNV-bRpVHvqStk/)_
+## _All FSJS Assignments List:_ _[CLick Here](https://docs.google.com/document/d/1QM5cuXBVFtmj9llNL0bZNYYl4Tob4vNV-bRpVHvqStk/)_ 🔗
