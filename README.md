@@ -1,6 +1,6 @@
 # _Javascript Assignments_
 
-| _Assignments_ | _Link_ |
+| _Assignments_ | _Repository Link_ |
 | :- | :---: |
 | _**20 DOM Assignments, which are there on [CodeSandBox](https://codesandbox.io/s/dom-fsjs-fr34h2)**_ | _**[Link](https://github.com/anupam-k/Javascript-DOM-Assignments)**_ |
 | _**[25 Questions based on the Arrays](https://docs.google.com/document/d/1qMkflj5wUJi4nAsh7j13qsKAThBAg-E3ZarEGgHzDl8/) are given in the 27th August live class recording resource section**_ | _**[Link](https://github.com/anupam-k/25-Questions-based-on-Array)**_ |
